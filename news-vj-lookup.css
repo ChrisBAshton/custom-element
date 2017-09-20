@@ -1,0 +1,8 @@
+label {
+    color: orange;
+}
+
+label,
+input {
+    display: block;
+}
