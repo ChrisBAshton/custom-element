@@ -14,4 +14,4 @@ Looks slightly prettier in new browsers:
 
 And outputs cool stuff in the console log:
 
-![console output](https://user-images.githubusercontent.com/5111927/30648592-4f60e1da-9e16-11e7-8b84-50f18978087a.png")
+![console output](https://user-images.githubusercontent.com/5111927/30648592-4f60e1da-9e16-11e7-8b84-50f18978087a.png)
